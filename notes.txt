@@ -1,0 +1,28 @@
+notes.txt
+
+
+
+Github Notes
+
+git init
+git status
+git add .
+git commit -m "first commit"
+
+To Revert:
+git checkout gitsome.html
+
+
+Change Branch:
+git checkout "Branch Name"
+
+To Change Name:
+git config --global user.name "Sam Herwig"
+
+
+To Merge:
+git merge "Other Branch Name"
+
+
+to Delete:
+Git Branch -D "branch name"
